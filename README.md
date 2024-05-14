@@ -3,6 +3,9 @@ https://www.spigotmc.org/resources/91843/
 
 Usage Documentation for the Minecraft Server Status Banner Generator API.
 
+## Implementation
+This service used [InteractiveChatDiscordSrvAddon](https://github.com/LOOHP/InteractiveChat-DiscordSRV-Addon)'s ability to read and draw Minecraft assets internally. For more information on how it is done, check out the code over there.
+
 ## Usage
 The generator functions by receiving HTTP GET requests through an API.
 
