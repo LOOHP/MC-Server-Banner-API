@@ -1,4 +1,5 @@
 # Minecraft Server Status Banner Generator API
+
 https://www.spigotmc.org/resources/91843/
 
 Usage Documentation for the Minecraft Server Status Banner Generator API.
@@ -47,7 +48,7 @@ https://api.loohpjames.com/serverbanner.png?ip=play.EarthMC.net&width=1836&name=
 ```html
 https://api.loohpjames.com/serverbanner.png?ip=mc.twdtc.net&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png
 ```
-![example3](https://api.loohpjames.com/serverbanner.png?ip=mc.twdtc.net&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png)
+![example3](https://api.loohpjames.com/serverbanner.png?ip=brilliantw.net&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png)
 ```html
 https://api.loohpjames.com/serverbanner.png?ip=mc-sbs.com&ping=200&width=1836
 ```
