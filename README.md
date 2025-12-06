@@ -58,7 +58,7 @@ https://api.loohpjames.com/serverbanner.png?ip=mcpotato.xyz&ping=200&width=1836
 ```html
 https://api.loohpjames.com/serverbanner.png?ip=this.server.does.not.exist&width=1836&name=Unknown%20Server%20Example
 ```
-![example5](https://i.imgur.com/TOHtSps.png)
+![example5](https://resources.loohpjames.com/spigot/serverbanner/unknown.png)
 
 ## Partnerships
 
