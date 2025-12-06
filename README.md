@@ -10,6 +10,8 @@ This service used [InteractiveChatDiscordSrvAddon](https://github.com/LOOHP/Inte
 ## Usage
 The generator functions by receiving HTTP GET requests through an API.
 
+**You may use the [Web Editor](https://api.loohpjames.com/serverbanner) to generate the URL!**
+
 ### Basic Usage
 
 ```html
@@ -46,13 +48,13 @@ https://api.loohpjames.com/serverbanner.png?ip=play.EarthMC.net&width=1836&name=
 ```
 ![example2](https://api.loohpjames.com/serverbanner.png?ip=play.EarthMC.net&width=1836&name=Example%20Server&ping=500&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/earthmc.png)
 ```html
-https://api.loohpjames.com/serverbanner.png?ip=mc.twdtc.net&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png
+https://api.loohpjames.com/serverbanner.png?ip=play.btehkmu.com&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png
 ```
-![example3](https://api.loohpjames.com/serverbanner.png?ip=brilliantw.net&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png)
+![example3](https://api.loohpjames.com/serverbanner.png?ip=play.btehkmu.com&width=1836&name=Example%20Server&backgroundurl=https://resources.loohpjames.com/spigot/serverbanner/twdtc.png)
 ```html
-https://api.loohpjames.com/serverbanner.png?ip=mc-sbs.com&ping=200&width=1836
+https://api.loohpjames.com/serverbanner.png?ip=mcpotato.xyz&ping=200&width=1836
 ```
-![example4](https://api.loohpjames.com/serverbanner.png?ip=mc-sbs.com&ping=200&width=1836)
+![example4](https://api.loohpjames.com/serverbanner.png?ip=mcpotato.xyz&ping=200&width=1836)
 ```html
 https://api.loohpjames.com/serverbanner.png?ip=this.server.does.not.exist&width=1836&name=Unknown%20Server%20Example
 ```
